@@ -1,0 +1,3 @@
+﻿  Snake.cpp
+C:\Users\KK\source\repos\Snake\Snake\Snake.cpp(472,13): warning C4101: playerNum: неиспользованная локальная переменная
+  Snake.vcxproj -> C:\Users\KK\source\repos\Snake\x64\Debug\Snake.exe
